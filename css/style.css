@@ -38,6 +38,7 @@ body {
   -webkit-transition: 0.2s;
   -o-transition: 0.2s;
   transition: 0.2s;
+  cursor: pointer;
 }
 
 .btn:hover {
@@ -711,7 +712,7 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  max-width: 1170px;
+  width: 100%;
 }
 
 .footer .container {
